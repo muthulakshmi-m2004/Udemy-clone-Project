@@ -46,7 +46,7 @@ This project was created for educational purposes to improve my front-end develo
 ---
 ## How to view
 
-You can access my Udemy Clone Project through
+You can access my Udemy Clone Project through  https://muthulakshmi-m2004.github.io/Udemy-clone-Project/
 
 #Thank you for visiting my project.
 
